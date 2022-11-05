@@ -1,2 +1,5 @@
 # Excel-Challenge
-this is my excel challenge.
+## Kickstarter analysis
+Included are:
+* Chart images
+* Kickstarter excel sheet
